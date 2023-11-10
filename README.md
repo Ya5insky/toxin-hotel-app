@@ -1,7 +1,6 @@
 ## webpack-sample
 
-Сборщик Webpack создан для фронтенд разработчиков. 
-В данной сборке Webpack настроен для работы с Pug, Sass(Scss), JavaScript.
+Сборщик Webpack создан для фронтенд разработчиков.  В данной сборке Webpack настроен для работы с Pug, Sass(Scss), JavaScript.
 
 ## Запуск
 
